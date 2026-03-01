@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Never Go Away",
+  "base_artist": "C-BooL",
+  "createdAt": "2026-03-01T21:12:27.934050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Go Away",
+      "artist": "C-BooL",
+      "has_synced": true,
+      "path": "select/01_Never_Go_Away_C-BooL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Go Away",
+      "artist": "C-BooL",
+      "has_synced": true,
+      "path": "select/02_Never_Go_Away_C-BooL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Go Away",
+      "artist": "Boyz II Men",
+      "has_synced": false,
+      "path": "select/03_Never_Go_Away_Boyz_II_Men.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Can't Be Missed If You Never Go Away",
+      "artist": "Cobra Starship",
+      "has_synced": true,
+      "path": "select/04_You_Can't_Be_Missed_If_You_Never_Go_Away_Cobra_Starship.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NEVER GO AWAY",
+      "artist": "北代 桃子",
+      "has_synced": false,
+      "path": "select/05_NEVER_GO_AWAY_北代_桃子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NEVER GO AWAY",
+      "artist": "北代桃子",
+      "has_synced": false,
+      "path": "select/06_NEVER_GO_AWAY_北代桃子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Go Away",
+      "artist": "C-BooL",
+      "has_synced": true,
+      "path": "select/07_Never_Go_Away_C-BooL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Some Feelings Never Go Away",
+      "artist": "Nia Sultana",
+      "has_synced": true,
+      "path": "select/08_Some_Feelings_Never_Go_Away_Nia_Sultana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Go Away - Radio Edit",
+      "artist": "C-BooL",
+      "has_synced": true,
+      "path": "select/09_Never_Go_Away_-_Radio_Edit_C-BooL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Go Away - Extended Mix",
+      "artist": "C-BooL",
+      "has_synced": false,
+      "path": "select/10_Never_Go_Away_-_Extended_Mix_C-BooL.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nada Vai Separar (Never Go Away)",
+      "artist": "Belo",
+      "has_synced": true,
+      "path": "select/11_Nada_Vai_Separar_(Never_Go_Away)_Belo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Some Feelings Never Go Away (Official Audio)",
+      "artist": "Nia Sultana",
+      "has_synced": true,
+      "path": "select/12_Some_Feelings_Never_Go_Away_(Official_Audio)_Nia_Sultana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Go Away (Exttended Mix)",
+      "artist": "C-Bool",
+      "has_synced": true,
+      "path": "select/13_Never_Go_Away_(Exttended_Mix)_C-Bool.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Never Go Away",
+      "artist": "Erin McCarley",
+      "has_synced": true,
+      "path": "select/14_I'll_Never_Go_Away_Erin_McCarley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "11 Never Go Away",
+      "artist": "Boyz II Men",
+      "has_synced": false,
+      "path": "select/15_11_Never_Go_Away_Boyz_II_Men.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Go Away",
+      "artist": "The Benjy Davis Project",
+      "has_synced": false,
+      "path": "select/16_Never_Go_Away_The_Benjy_Davis_Project.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never Go Away - Groovefore & neeVald Radio Edit",
+      "artist": "C-BooL",
+      "has_synced": true,
+      "path": "select/17_Never_Go_Away_-_Groovefore_&_neeVald_Radio_Edit_C-BooL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Go Away",
+      "artist": "C-BooL",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Go_Away_C-BooL.txt"
+    }
+  ]
+}
